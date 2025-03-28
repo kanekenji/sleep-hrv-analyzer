@@ -28,7 +28,7 @@ Ver2では、日中HRV平均値の計算に微分積分アプローチが導入�
 ### 1. リポジトリのクローンまたはダウンロード
 
 ```bash
-git clone https://github.com/yourusername/sleep-hrv-analyzer.git
+git clone https://github.com/kanekenji/sleep-hrv-analyzer.git
 cd sleep-hrv-analyzer
 ```
 
